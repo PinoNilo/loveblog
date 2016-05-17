@@ -1,0 +1,50 @@
+a {
+  text-decoration: none; }
+  a:hover {
+    text-decoration: none; }
+
+.linea {
+  background-color: #e7663c;
+  color: white; }
+
+footer {
+  background-color: #e7663c;
+  color: #e7663c; }
+
+.titulo {
+  color: white; }
+
+.parra {
+  color: white; }
+
+.title {
+  color: white; }
+
+li {
+  display: inline-block;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 30px; }
+
+.chicas {
+  display: inline-block; }
+
+.portfolio img {
+  width: 100%; }
+.portfolio ul li {
+  display: inline-block; }
+  .portfolio ul li a {
+    color: #e7663c;
+    padding: 5px; }
+    .portfolio ul li a:hover {
+      background-color: #e7663c;
+      color: white; }
+.portfolio .text {
+  border: 1px solid black;
+  padding-left: 10px; }
+  .portfolio .text h1 {
+    font-size: 20px; }
+  .portfolio .text p {
+    color: #e7663c; }
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,29 @@
+.portfolio{
+	img{
+		width: 100%;
+	}
+	ul{
+		li{
+			display: inline-block;
+			a{
+				color:#e7663c;
+				padding:5px;
+				&:hover{
+					background-color: #e7663c;
+					color:white;
+
+				}
+			}
+		}
+	}
+	.text{
+		border: 1px solid black;
+		padding-left: 10px;
+		h1{
+			font-size: 20px;
+		}
+		p{
+			color:#e7663c;
+		}
+	}
+}

@@ -1,0 +1,10 @@
+a{
+	text-decoration:none;
+	&:hover{
+		text-decoration: none;
+	}
+}
+.linea{
+	background-color:$main-color;
+	color:white;
+}
